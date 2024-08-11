@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55DFB1-3687-4E9C-B2F6-D62F8FDCAAFD}|DepthChart.Tests\\DepthChart.Tests.csproj|c:\\users\\rox.sanei\\source\\repos\\dualfandepthchartsolution\\depthchart.tests\\depthchartservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55DFB1-3687-4E9C-B2F6-D62F8FDCAAFD}|DepthChart.Tests\\DepthChart.Tests.csproj|solutionrelative:depthchart.tests\\depthchartservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|c:\\users\\rox.sanei\\source\\repos\\dualfandepthchartsolution\\depthchart.domain\\services\\depthchartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|solutionrelative:depthchart.domain\\services\\depthchartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|c:\\users\\rox.sanei\\source\\repos\\dualfandepthchartsolution\\depthchart.domain\\dal\\inmemorydepthchartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|solutionrelative:depthchart.domain\\dal\\inmemorydepthchartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|c:\\users\\rox.sanei\\source\\repos\\dualfandepthchartsolution\\depthchart.domain\\dal\\inmemoryplayerrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|solutionrelative:depthchart.domain\\dal\\inmemoryplayerrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|c:\\users\\rox.sanei\\source\\repos\\dualfandepthchartsolution\\depthchart.domain\\repositories\\idepthchartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|solutionrelative:depthchart.domain\\repositories\\idepthchartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|c:\\users\\rox.sanei\\source\\repos\\dualfandepthchartsolution\\depthchart.domain\\repositories\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|solutionrelative:depthchart.domain\\repositories\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|c:\\users\\rox.sanei\\source\\repos\\dualfandepthchartsolution\\depthchart.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607A2553-6758-4A9E-BD9B-A2B2A1040391}|DepthChart.Domain\\DepthChart.Domain.csproj|solutionrelative:depthchart.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2061166134:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryDepthChartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\DAL\\InMemoryDepthChartRepository.cs",
+              "RelativeDocumentMoniker": "DepthChart.Domain\\DAL\\InMemoryDepthChartRepository.cs",
+              "ToolTip": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\DAL\\InMemoryDepthChartRepository.cs",
+              "RelativeToolTip": "DepthChart.Domain\\DAL\\InMemoryDepthChartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T01:20:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryPlayerRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\DAL\\InMemoryPlayerRepository .cs",
+              "RelativeDocumentMoniker": "DepthChart.Domain\\DAL\\InMemoryPlayerRepository .cs",
+              "ToolTip": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\DAL\\InMemoryPlayerRepository .cs",
+              "RelativeToolTip": "DepthChart.Domain\\DAL\\InMemoryPlayerRepository .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T01:19:45.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDepthChartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\Repositories\\IDepthChartRepository.cs",
+              "RelativeDocumentMoniker": "DepthChart.Domain\\Repositories\\IDepthChartRepository.cs",
+              "ToolTip": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\Repositories\\IDepthChartRepository.cs",
+              "RelativeToolTip": "DepthChart.Domain\\Repositories\\IDepthChartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T01:12:15.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\Repositories\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "DepthChart.Domain\\Repositories\\IPlayerRepository.cs",
+              "ToolTip": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\Repositories\\IPlayerRepository.cs",
+              "RelativeToolTip": "DepthChart.Domain\\Repositories\\IPlayerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T01:11:18.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepthChartService.cs",
+              "DocumentMoniker": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\Services\\DepthChartService.cs",
+              "RelativeDocumentMoniker": "DepthChart.Domain\\Services\\DepthChartService.cs",
+              "ToolTip": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\Services\\DepthChartService.cs",
+              "RelativeToolTip": "DepthChart.Domain\\Services\\DepthChartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:45:54.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "DepthChart.Domain\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Domain\\Entities\\Player.cs",
+              "RelativeToolTip": "DepthChart.Domain\\Entities\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:41:41.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepthChartServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Tests\\DepthChartServiceTests.cs",
+              "RelativeDocumentMoniker": "DepthChart.Tests\\DepthChartServiceTests.cs",
+              "ToolTip": "C:\\Users\\Rox.Sanei\\source\\repos\\DualFanDepthChartSolution\\DepthChart.Tests\\DepthChartServiceTests.cs",
+              "RelativeToolTip": "DepthChart.Tests\\DepthChartServiceTests.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwD8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T00:41:09.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

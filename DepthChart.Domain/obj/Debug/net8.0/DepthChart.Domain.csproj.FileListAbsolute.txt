@@ -1,0 +1,11 @@
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\bin\Debug\net8.0\DepthChart.Domain.deps.json
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\bin\Debug\net8.0\DepthChart.Domain.dll
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\bin\Debug\net8.0\DepthChart.Domain.pdb
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\obj\Debug\net8.0\DepthChart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\obj\Debug\net8.0\DepthChart.Domain.AssemblyInfoInputs.cache
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\obj\Debug\net8.0\DepthChart.Domain.AssemblyInfo.cs
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\obj\Debug\net8.0\DepthChart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\obj\Debug\net8.0\DepthChart.Domain.dll
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\obj\Debug\net8.0\refint\DepthChart.Domain.dll
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\obj\Debug\net8.0\DepthChart.Domain.pdb
+C:\Users\Rox.Sanei\source\repos\DualFanDepthChartSolution\DepthChart.Domain\obj\Debug\net8.0\ref\DepthChart.Domain.dll
