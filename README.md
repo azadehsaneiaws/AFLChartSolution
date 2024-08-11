@@ -8,10 +8,10 @@ I Implemented this App Using TDD And for Design Pattern As you can see I Levredg
 ## ** Technologies Used **
 Nothing Fancy AS this is Just a POC Implemented in 46 minutes on  a sunny sunday morning :))
 
-## .NET Core: The framework used for developing the application.
-## xUnit: The testing framework used for unit tests.
-## C#: The primary programming language used for development.
-## Git: Version control system for managing the project's source code.
+.NET : 8.0 (LTS).
+xUnit: The testing framework used for unit tests.
+C#: The primary programming language used for development.
+Git: Version control system for managing the project's source code.
 
 
 ## Domain-Driven Design (DDD)
