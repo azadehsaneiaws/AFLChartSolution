@@ -5,13 +5,13 @@
 The **DualFanDepthChartSolution** allows you to add, remove, and manage players' positions within a team's depth chart.
 The system is built with scalability, maintainability, and testability in mind, leveraging several modern software architecture principles and design patterns.
 I Implemented this App Using TDD And for Design Pattern As you can see I Levredged Design pattern, There were A few Things I would do Differenly But Would add them In areas of Improvement  at the end of the  file. 
-## ** Technologies Used **
+## Technologies Used 
 Nothing Fancy AS this is Just a POC Implemented in 46 minutes on  a sunny sunday morning :))
 
-.NET : 8.0 (LTS).
-xUnit: The testing framework used for unit tests.
-C#: The primary programming language used for development.
-Git: Version control system for managing the project's source code.
+** .NET : 8.0 (LTS).
+** xUnit: The testing framework used for unit tests.
+** C#: The primary programming language used for development.
+** Git: Version control system for managing the project's source code.
 
 
 ## Domain-Driven Design (DDD)
