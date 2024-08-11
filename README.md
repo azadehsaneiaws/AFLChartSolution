@@ -8,10 +8,10 @@ I Implemented this App Using TDD And for Design Pattern As you can see I Levredg
 ## Technologies Used 
 Nothing Fancy AS this is Just a POC Implemented in 46 minutes on  a sunny sunday morning :))
 
-** .NET : 8.0 (LTS).
-** xUnit: The testing framework used for unit tests.
-** C#: The primary programming language used for development.
-** Git: Version control system for managing the project's source code.
+1. .NET : 8.0 (LTS).
+2. xUnit: The testing framework used for unit tests.
+3. C#: The primary programming language used for development.
+4. Git: Version control system for managing the project's source code.
 
 
 ## Domain-Driven Design (DDD)
@@ -29,7 +29,7 @@ that all functionalities are covered by tests and that the code is reliable and 
 1. Repository Pattern
 The Repository Pattern is used to abstract the data layer, providing a clean API for the domain layer to interact with data sources. This abstraction enables the application to switch between different data storage mechanisms (e.g., in-memory, SQL, NoSQL) without changing the business logic.
 
-PlayerRepository: Manages access to player data.
+2.PlayerRepository: Manages access to player data.
 DepthChartRepository: Manages the depth chart data and ensures consistency of operations.
 
 ## Service Layer Pattern
